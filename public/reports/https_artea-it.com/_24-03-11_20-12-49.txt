@@ -1,0 +1,14 @@
+# Dirsearch started Mon Mar 11 20:15:48 2024 as: /usr/share/dirsearch/dirsearch.py -u https://artea-it.com
+
+301   169B   https://artea-it.com/js    -> REDIRECTS TO: http://artea-it.com/js/
+301   169B   https://artea-it.com/blog    -> REDIRECTS TO: http://artea-it.com/blog/
+200     6KB  https://artea-it.com/blog/
+301   169B   https://artea-it.com/categories    -> REDIRECTS TO: http://artea-it.com/categories/
+301   169B   https://artea-it.com/css    -> REDIRECTS TO: http://artea-it.com/css/
+200    15KB  https://artea-it.com/favicon.ico
+301   169B   https://artea-it.com/images    -> REDIRECTS TO: http://artea-it.com/images/
+403   555B   https://artea-it.com/images/
+200     2KB  https://artea-it.com/index.xml
+403   555B   https://artea-it.com/js/
+200     1KB  https://artea-it.com/sitemap.xml
+301   169B   https://artea-it.com/tags    -> REDIRECTS TO: http://artea-it.com/tags/

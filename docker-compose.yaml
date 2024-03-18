@@ -1,0 +1,12 @@
+---
+version: '3.8'
+services:
+  artea-it:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        HUGO_BASEURL: http://localhost:8080
+    image: user/artea-it:latest
+    ports:
+      - "8080:80"

@@ -1,0 +1,11 @@
+# Dirsearch started Mon Mar 11 20:12:25 2024 as: /usr/share/dirsearch/dirsearch.py -u localhost:1313
+
+301    46B   http://localhost:1313/%2e%2e//google.com    -> REDIRECTS TO: /google.com
+301    46B   http://localhost:1313/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd    -> REDIRECTS TO: /etc/passwd
+404    19B   http://localhost:1313/404.html
+301    54B   http://localhost:1313/axis//happyaxis.jsp    -> REDIRECTS TO: /axis/happyaxis.jsp
+301    59B   http://localhost:1313/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: /axis2-web/HappyAxis.jsp
+301    65B   http://localhost:1313/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: /axis2/axis2-web/HappyAxis.jsp
+301     0B   http://localhost:1313/categories    -> REDIRECTS TO: categories/
+301    46B   http://localhost:1313/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd    -> REDIRECTS TO: /etc/passwd
+301    87B   http://localhost:1313/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: /Citrix/AccessPlatform/auth/clientscripts/cookies.js
